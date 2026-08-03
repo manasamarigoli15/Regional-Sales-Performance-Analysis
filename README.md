@@ -35,7 +35,7 @@ Sales organizations often lack a clear, data-driven view of regional performance
 - **Seasonality signal:** Revenue drops in **April (~$95M)** versus a **January peak (~$124M)**, indicating a Q2 recovery opportunity.
 - **SKU concentration:** **Product 26** and **Product 25** together contribute roughly **25% of total revenue**.
 - **Channel dynamics:** **Export** delivers the strongest average margin profile (~38%), while **Wholesale** contributes the largest order volume (~54%).
-- **Regional concentration:** **California** is a top-performing market (~7.6K orders; **~$230M** revenue).
+- **Regional concentration:** **California** is a top-performing market (** ~7.6K orders; ~$230M** revenue).
 - **Profit drivers:** Correlation analysis shows **unit price** is the strongest profit driver (~0.79), while **quantity** has comparatively weaker impact.
 
 ## 🚀 Strategic Recommendations
