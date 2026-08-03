@@ -22,11 +22,11 @@ Sales organizations often lack a clear, data-driven view of regional performance
 
 ```bash
 ├── Regional Sales Dataset.xlsx            # Raw source data (47 states, 175 customers, 30 products)
-├── Data_cleaned(Before_EDA).csv           # Intermediate cleaned dataset
-├── Sales_data(EDA Exported).csv           # Final analytics-ready export
-├── Regional_Sales_Analysis_EDA.ipynb      # Python EDA + feature engineering workflow
-├── SALES REPORT.pbix                      # Interactive Power BI dashboard
-├── PPT --- Regional Sales Analysis.pptx   # Executive summary presentation
+├── Data Cleaned (Before EDA).csv           # Intermediate cleaned dataset
+├── Sales Data (EDA Exported).csv           # Final analytics-ready export
+├── Regional Sales Analysis EDA.ipynb      # Python EDA + feature engineering workflow
+├── Sales Report.pbix                      # Interactive Power BI dashboard
+├── Regional Sales Analysis.pptx   # Executive summary presentation
 └── README.md
 ```
 
@@ -64,9 +64,9 @@ Built an interactive dashboard experience focused on:
 
 ## ⚙️ How to Use
 
-1. **Technical deep dive:** Open `Regional_Sales_Analysis_EDA.ipynb` to review transformation logic and EDA outputs.
-2. **Interactive analysis:** Open `SALES REPORT.pbix` in Power BI Desktop to explore results by region, channel, and month.
-3. **Business narrative:** Open `PPT --- Regional Sales Analysis.pptx` for executive-level recommendations.
+1. **Technical deep dive:** Open `Regional Sales Analysis EDA.ipynb` to review transformation logic and EDA outputs.
+2. **Interactive analysis:** Open `Sales Report.pbix` in Power BI Desktop to explore results by region, channel, and month.
+3. **Business narrative:** Open `Regional Sales Analysis.pptx` for executive-level recommendations.
 
 ## 🧰 Tech Stack
 
@@ -77,7 +77,7 @@ Built an interactive dashboard experience focused on:
 
 ## 📌 Notes
 
-- Core analytics-ready dataset: `Sales_data(EDA Exported).csv`
+- Core analytics-ready dataset: `Sales Data (EDA Exported).csv`
 - Historical coverage: 2014-01-01 to 2018-02-28
 - Scope includes 47 U.S. states, 175 customers, and 30 products
 
